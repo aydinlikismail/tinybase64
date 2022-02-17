@@ -1,0 +1,16 @@
+{
+  "name": "tinybase64",
+  "version": "0.0.3",
+  "description": "Decode / Encode base64 format!",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "base64",
+    "decode",
+    "encode"
+  ],
+  "author": "ismailaydinlik",
+  "license": "ISC"
+}
